@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Paula Branco | Academic</title>
-    <link>/author/paula-branco/</link>
-      <atom:link href="/author/paula-branco/index.xml" rel="self" type="application/rss+xml" />
+    <title>Paula Branco | Paula Branco, Ph.D.</title>
+    <link>https://paobranco.github.io/author/paula-branco/</link>
+      <atom:link href="https://paobranco.github.io/author/paula-branco/index.xml" rel="self" type="application/rss+xml" />
     <description>Paula Branco</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright>
     <image>
-      <url>/author/paula-branco/avatar_hu80fa8d9faac989327855b2f12a9d999d_25290_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>https://paobranco.github.io/author/paula-branco/avatar_hu80fa8d9faac989327855b2f12a9d999d_25290_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Paula Branco</title>
-      <link>/author/paula-branco/</link>
+      <link>https://paobranco.github.io/author/paula-branco/</link>
     </image>
     
   </channel>

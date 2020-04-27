@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Academic</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Paula Branco, Ph.D.</title>
+    <link>https://paobranco.github.io/authors/</link>
+      <atom:link href="https://paobranco.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://paobranco.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://paobranco.github.io/authors/</link>
     </image>
     
     <item>
       <title>Paula Branco</title>
-      <link>/author/paula-branco/</link>
+      <link>https://paobranco.github.io/author/paula-branco/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/author/paula-branco/</guid>
+      <guid>https://paobranco.github.io/author/paula-branco/</guid>
       <description>&lt;p&gt;Paula Branco is an Assistant Professor at University of Ottawa, Canada. Her research interests are focused on Artificial Intelligence and Machine Learning, with a special focus on imbalanced domains, outliers and rare events detection and cybersecurity.&lt;/p&gt;
 </description>
     </item>
