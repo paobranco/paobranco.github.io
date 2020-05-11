@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Paula Branco, Ph.D.</title>
+    <title>News | Paula Branco, Ph.D.</title>
     <link>https://paobranco.github.io/news/</link>
       <atom:link href="https://paobranco.github.io/news/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <description>News</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright>
     <image>
       <url>https://paobranco.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Posts</title>
+      <title>News</title>
       <link>https://paobranco.github.io/news/</link>
     </image>
     
