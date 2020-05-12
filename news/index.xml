@@ -5,12 +5,20 @@
     <link>https://paobranco.github.io/news/</link>
       <atom:link href="https://paobranco.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Mon, 17 Sep 2018 11:59:56 -0400</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://paobranco.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>Phd Defense</title>
+      <link>https://paobranco.github.io/news/phd-defense/</link>
+      <pubDate>Mon, 17 Sep 2018 11:59:56 -0400</pubDate>
+      <guid>https://paobranco.github.io/news/phd-defense/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
