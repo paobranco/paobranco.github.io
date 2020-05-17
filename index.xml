@@ -24,6 +24,17 @@
     </item>
     
     <item>
+      <title>New Paper on DSAA 2019 Conference</title>
+      <link>https://paobranco.github.io/news/new-paper-dsaa2019/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/news/new-paper-dsaa2019/</guid>
+      <description>&lt;p&gt;New paper published on DSAA 2019: &amp;ldquo;A Study on the Impact of Data Characteristics in Imbalanced Regression Tasks&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The class imbalance problem has been thoroughly studied over the past two decades. More recently, the research community realized that the problem of imbalanced distributions also occurred in other tasks beyond classification. Regression problems are among these newly studied tasks where the problem of imbalanced domains also poses important challenges. Imbalanced regression problems occur in a diversity of real world domains such as meteorological (predicting weather extreme values), financial (extreme stock returns forecasting) or medical (anticipate rare values). In imbalanced regression the end-user preferences are biased towards values of the target variable that are under-represented on the available data. Several pre-processing methods were proposed to address this problem. These methods change the training set to force the learner to focus on the rare cases. However, as far as we know, the relationship between the data intrinsic characteristics and the performance achieved by these methods has not yet been studied for imbalanced regression tasks. In this paper we describe a study of the impact certain data characteristics may have in the results of applying pre-processing methods to imbalanced regression problems. To achieve this goal, we define potentially interesting data characteristics of regression problems. We then conduct our study using a synthetic data repository build for this purpose. We show that all the different characteristics studied have a different behaviour that is related with the level at which the data characteristic is present and the learning algorithm used. The main contributions of our work are: i) to define interesting data characteristics for regression tasks; ii) to create the first repository of imbalanced regression tasks containing 6000 data sets with controlled data characteristics; and iii) to provide insights on the impact of intrinsic data characteristics in the results of pre-processing methods for handling imbalanced regression tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New Paper in Neurocomputing Journal</title>
       <link>https://paobranco.github.io/news/new-paper-neurocomputing/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
@@ -60,17 +71,6 @@ Initially, the research community  addressed  these  tasks  through  the  develo
 &lt;p&gt;The second challenge is related with the lack of methods to address utility-based regression problems. When dealing with utility-based learning if the utility information is not incorporated into the learning procedure we are only able to obtain sub-optimal models.  To solve this problem we propose and evaluate new methods that allow to maximise the utility in regression.  We show that these methods are effective for different utility settings.&lt;/p&gt;
 &lt;p&gt;The third and final challenge is related with the particular sub-class of utility-based problems known as imbalanced domains.  This is also a problem insufficiently studied in the context of regression tasks.  We propose and evaluate several approaches to address this problem.&lt;/p&gt;
 &lt;p&gt;As a practical outcome of this work, we provide UBL, an R package for utility-based learning that integrates approaches for classification and regression tasks.  The UBL package includes the proposals presented in this thesis, as well as many other approaches developed for utility-based classification, providing to the research community a tool for testing and comparing different alternative methods of addressing utility-based predictive tasks.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>New Paper on DSAA 2019 Conference</title>
-      <link>https://paobranco.github.io/news/new-paper-dsaa2019/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://paobranco.github.io/news/new-paper-dsaa2019/</guid>
-      <description>&lt;p&gt;New paper published on DSAA 2019: &amp;ldquo;A Study on the Impact of Data Characteristics in Imbalanced Regression Tasks&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;The class imbalance problem has been thoroughly studied over the past two decades. More recently, the research community realized that the problem of imbalanced distributions also occurred in other tasks beyond classification. Regression problems are among these newly studied tasks where the problem of imbalanced domains also poses important challenges. Imbalanced regression problems occur in a diversity of real world domains such as meteorological (predicting weather extreme values), financial (extreme stock returns forecasting) or medical (anticipate rare values). In imbalanced regression the end-user preferences are biased towards values of the target variable that are under-represented on the available data. Several pre-processing methods were proposed to address this problem. These methods change the training set to force the learner to focus on the rare cases. However, as far as we know, the relationship between the data intrinsic characteristics and the performance achieved by these methods has not yet been studied for imbalanced regression tasks. In this paper we describe a study of the impact certain data characteristics may have in the results of applying pre-processing methods to imbalanced regression problems. To achieve this goal, we define potentially interesting data characteristics of regression problems. We then conduct our study using a synthetic data repository build for this purpose. We show that all the different characteristics studied have a different behaviour that is related with the level at which the data characteristic is present and the learning algorithm used. The main contributions of our work are: i) to define interesting data characteristics for regression tasks; ii) to create the first repository of imbalanced regression tasks containing 6000 data sets with controlled data characteristics; and iii) to provide insights on the impact of intrinsic data characteristics in the results of pre-processing methods for handling imbalanced regression tasks.&lt;/p&gt;
 </description>
     </item>
     
