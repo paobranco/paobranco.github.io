@@ -13,60 +13,6 @@
     </image>
     
     <item>
-      <title>Research</title>
-      <link>https://paobranco.github.io/research/research-description/</link>
-      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://paobranco.github.io/research/research-description/</guid>
-      <description>&lt;p&gt;My main research interests are Machine Learning, Data Mining and Data Science. I’m interested in predictive analytics with a special focus in cost-sensitive/utility-based predicitive analytics, imbalanced domains learning, anomaly detection, fraud detection and rare extreme values forecasting.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Utility-based Predictive Analytics&lt;/em&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;* Utility-based learning problems
-* Cost-sensitive learning problems
-* Performance Evaluation
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;em&gt;Imbalanced domains&lt;/em&gt;&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Strategies for dealing with imbalanced domains
-Imbalanced Regression
-Imbalanced Time Series
-Imbalanced Data Streams
-Performance Evaluation on imbalanced domains
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Rare Events Mining&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Outlier detection
-Anomaly detection
-Fraud detection
-Rare extreme values forecasting
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Real-world Applications&lt;/p&gt;
-&lt;p&gt;The problems that I’ve been addressing in the last years have many important real-world applications. Examples of such applications are:
-Medical data&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Rare disease detection
-Cancer Prediction
-Diabetes Prediction
-Forecasting/anticipating heart diseases
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Spatio-temporal data&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Fores fires forecasting
-Monitor distribution and health of aquatic species
-Recommend locations for exploration of mineral resources
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Failure and fraud detection&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;Failure detection in sensors data
-Anticipating equipments interventions
-Fraud detection applications such as:
-    credit card transactions
-    insurance claims
-    tax return claims
-    email phishing
-&lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;Ecological/Meteorological data&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;prediction of abnormal values in ecological indicators
-anticipation of critical phenomena related with air or water quality
-forecasting weather extreme events such as floods, heavy snowfall, black ice, heat waves, etc
-&lt;/code&gt;&lt;/pre&gt;
-</description>
-    </item>
-    
-    <item>
       <title>UBL R Package - Utility-Based Learning in R</title>
       <link>https://paobranco.github.io/ubl/ubl-description/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
