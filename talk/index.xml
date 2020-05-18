@@ -5,7 +5,7 @@
     <link>https://paobranco.github.io/talk/</link>
       <atom:link href="https://paobranco.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Wed, 09 Dec 2015 15:03:01 +0900</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
@@ -15,27 +15,9 @@
     <item>
       <title>Rare events detection: Methods and Evaluation</title>
       <link>https://paobranco.github.io/talk/lidta20/</link>
-      <pubDate>Wed, 09 Dec 2015 15:03:01 +0900</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://paobranco.github.io/talk/lidta20/</guid>
-      <description>&lt;p&gt;+++
-draft = false
-title = &amp;ldquo;Rare events detection: Methods and Evaluation&amp;rdquo;
-summary = &amp;quot;&amp;rdquo;
-abstract_short = &amp;quot;&amp;rdquo;
-event = &amp;ldquo;LIDTA&amp;rsquo;20 Tutorial @ ECML/PKDD2020, 14 to 18 September 2020&amp;rdquo;
-event_url = &amp;ldquo;&lt;a href=&#34;https://web.cs.dal.ca/~ltorgo/LIDTA/%22&#34;&gt;https://web.cs.dal.ca/~ltorgo/LIDTA/&amp;quot;&lt;/a&gt;
-location = &amp;ldquo;Ghent, Belgium&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;selected = true
-math = true&lt;/p&gt;
-&lt;p&gt;url_pdf = &amp;quot;&amp;rdquo;
-url_slides = &amp;quot;&amp;rdquo;
-url_video = &amp;quot;&amp;rdquo;&lt;/p&gt;
-&lt;h1 id=&#34;optional-featured-image-relative-to-staticimg-folder&#34;&gt;Optional featured image (relative to &lt;code&gt;static/img/&lt;/code&gt; folder).&lt;/h1&gt;
-&lt;h1 id=&#34;header&#34;&gt;[header]&lt;/h1&gt;
-&lt;h1 id=&#34;image--ecmlpkdd2020png&#34;&gt;image = &amp;ldquo;ECMLPKDD2020.png&amp;rdquo;&lt;/h1&gt;
-&lt;p&gt;#caption = &amp;quot;&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;+++&lt;/p&gt;
-&lt;p&gt;&amp;ldquo;Rare events detection: Methods and Evaluation&amp;rdquo; September 2020
+      <description>&lt;p&gt;&amp;ldquo;Rare events detection: Methods and Evaluation&amp;rdquo; September 2020
 LIDTA&amp;rsquo;2020: Tutorial on Learning with Imbalanced Domains and Rare Event Detection at ECML/PKDD 2020 
 &lt;a href=&#34;https://web.cs.dal.ca/~ltorgo/LIDTA/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Tutorial page: 
