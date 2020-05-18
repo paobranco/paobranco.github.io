@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publication_types | Paula Branco, Ph.D.</title>
-    <link>https://paobranco.github.io/publication_types/</link>
-      <atom:link href="https://paobranco.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
+    <title>1 | Paula Branco, Ph.D.</title>
+    <link>https://paobranco.github.io/publication-type/1/</link>
+      <atom:link href="https://paobranco.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Mon, 18 May 2020 16:45:16 -0400</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
-      <title>Publication_types</title>
-      <link>https://paobranco.github.io/publication_types/</link>
+      <title>1</title>
+      <link>https://paobranco.github.io/publication-type/1/</link>
     </image>
     
     <item>
-      <title>1</title>
-      <link>https://paobranco.github.io/publication-type/1/</link>
+      <title>Smote for Regression</title>
+      <link>https://paobranco.github.io/publication/j2/</link>
       <pubDate>Mon, 18 May 2020 16:45:16 -0400</pubDate>
-      <guid>https://paobranco.github.io/publication-type/1/</guid>
+      <guid>https://paobranco.github.io/publication/j2/</guid>
       <description></description>
     </item>
     
