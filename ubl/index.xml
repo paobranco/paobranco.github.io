@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UBL | Paula Branco, Ph.D.</title>
+    <link>https://paobranco.github.io/ubl/</link>
+      <atom:link href="https://paobranco.github.io/ubl/index.xml" rel="self" type="application/rss+xml" />
+    <description>UBL</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright>
+    <image>
+      <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
+      <title>UBL</title>
+      <link>https://paobranco.github.io/ubl/</link>
+    </image>
+    
+    <item>
+      <title>UBL R Package - Utility-Based Learning in R</title>
+      <link>https://paobranco.github.io/ubl/ubl-description/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/ubl/ubl-description/</guid>
+      <description>&lt;p&gt;Utility-based learning problems are framed within predictive analytics tasks. In utility-based learning problems the end-user provides has non uniform preferences regarding the predictive performance of the models. This means that some errors may represent severe consequences while other errors may not be that important. Also the accurate predictions may have different benefits for the user.&lt;/p&gt;
+&lt;p&gt;Utility-based learning problems are very frequent in real-world applications. We can find them in medical applications, ecological/meteorological forecasting or in a financial. More information regarding utility-based learning problems can be found here. Some solutions for this problem can be found here, here or here.&lt;/p&gt;
+&lt;p&gt;The UBL package includes several approaches for dealing with problems with different costs/benefits across the target variable domain. This is a frequent issue in imbalanced domains, so in particular, the implemented approaches are also able to deal with this problem. A detailed explanation of the methods implemented in UBL package can be found here.&lt;/p&gt;
+&lt;p&gt;Click here to see a presentation of UBL package!&lt;/p&gt;
+&lt;p&gt;The package is available on GitHub and on CRAN.&lt;/p&gt;
+&lt;p&gt;This is the first R package that integrates methods for dealing with both imbalanced classification and imbalanced regression problems. We also implemented more general methods for dealing with utility-based and cost-sensitive problems. These methods are also implemented for classification and regression tasks.&lt;/p&gt;
+&lt;p&gt;So far, and taking into acount only the downloads made through CRAN, the UBL package has a total of 8566 downloads! The last month daily average of UBL downloads is of 18!&lt;/p&gt;
+&lt;p&gt;Below you can observe the daily number of downloads of UBL since its initial release in April 26, 2016.&lt;/p&gt;
+&lt;p&gt;The following figure shows the cummulative number of downloads of UBL from CRAN since its initial release in April 26, 2016.&lt;/p&gt;
+&lt;p&gt;The package has been improving, and a new release of UBL is being prepared! Download UBL and have fun!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
