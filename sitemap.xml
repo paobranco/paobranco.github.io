@@ -3,17 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://paobranco.github.io/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paobranco.github.io/ubl/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paobranco.github.io/ubl/ubl-description/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://paobranco.github.io/news/assistant-prof-uottawa/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://paobranco.github.io/news/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paobranco.github.io/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,14 +78,6 @@
   
   <url>
     <loc>https://paobranco.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://paobranco.github.io/ubl/</loc>
-  </url>
-  
-  <url>
-    <loc>https://paobranco.github.io/ubl/ubl-description/</loc>
   </url>
   
 </urlset>

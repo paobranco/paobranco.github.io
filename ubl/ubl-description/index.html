@@ -242,7 +242,9 @@
   <meta property="twitter:image" content="https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
+      <meta property="article:published_time" content="2020-05-17T00:00:00&#43;00:00">
     
+    <meta property="article:modified_time" content="2020-05-17T00:00:00&#43;00:00">
   
 
   
@@ -545,7 +547,7 @@
     
       
     
-    Jan 1, 0001
+    May 17, 2020
   </span>
   
 
@@ -599,43 +601,14 @@
 <p>The package is available on 
 <a href="https://github.com/paobranco/UBL" target="_blank" rel="noopener">GitHub</a> and on 
 <a href="https://CRAN.R-project.org/package=UBL" target="_blank" rel="noopener">CRAN</a>.</p>
-<pre><code class="language-{r,">library(cranlogs)
-library(dplyr)
-library(tibble)
-
-initD &lt;- &quot;2016-04-20&quot;
-finalD &lt;- as.character(Sys.Date())
-pckgs &lt;- c(&quot;UBL&quot;)
-
-dt &lt;- as_tibble(cran_downloads(from=initD,to=finalD, packages = pckgs))
-
-# Total
-
-#filter(dt,package==&quot;UBL&quot;) %&gt;% summarize(tot=sum(count))
-</code></pre>
 <p>This is the first R package that integrates methods for dealing with both imbalanced classification and imbalanced regression problems. We also implemented more general methods for dealing with utility-based and cost-sensitive problems. These methods are also implemented for classification and regression tasks.</p>
-<p>So far, and taking into acount only the downloads made through CRAN, the UBL package has a total of <code>r filter(dt,package==&quot;UBL&quot;) %&gt;% summarize(tot=sum(count))</code> downloads! The last month daily average of UBL downloads is of <code>r filter(dt,package==&quot;UBL&quot;, date&gt;'2019-02-08') %&gt;% summarize(tot=mean(count)) %&gt;% round()</code>!</p>
+<p>So far, and taking into acount only the downloads made through CRAN, the UBL package has a total of 17164 downloads! The last month daily average of UBL downloads is of 36!</p>
 <p>Below you can observe the daily number of downloads of UBL since its initial release in April 26, 2016.</p>
-<pre><code class="language-{r">
-# Gráfico
-
-library(ggplot2)
-filter(dt,package==&quot;UBL&quot;,date&gt;&quot;2016-04-25&quot;) %&gt;%
-  ggplot(aes(x=date,y=count)) + geom_line(col='darkblue')
-</code></pre>
+<p><img src="static/img/plot1.png" alt=""></p>
 <p>The following figure shows the cummulative number of downloads of UBL from CRAN since its initial release in April 26, 2016.</p>
-<pre><code class="language-{r">
-library(ggplot2)
-
-new.dt &lt;- filter(dt,package==&quot;UBL&quot;,date&gt;&quot;2016-04-25&quot;) %&gt;%
-  mutate(cumsum_covered = cumsum(count))
-
-ggplot(new.dt, aes(x=date, y=cumsum_covered)) + geom_line(color=&quot;blue&quot;) +
-  ylab(&quot;Downloads' Cummulative Counts&quot;)
-
-</code></pre>
-<p>The package has been improving, and a new release of UBL is being prepared!
-<strong>Download UBL and have fun</strong>!</p>
+<p><img src="static/img/plot2.png" alt=""></p>
+<p>The package has been improving, and a new release of UBL is being prepared!</p>
+<p><strong>Download UBL and have fun</strong>!</p>
 
     </div>
 
