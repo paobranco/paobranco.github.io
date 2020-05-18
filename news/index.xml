@@ -5,12 +5,23 @@
     <link>https://paobranco.github.io/news/</link>
       <atom:link href="https://paobranco.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://paobranco.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>LIDTA&#39;20 - Tutorial accepted @ ECML/PKDD 2020</title>
+      <link>https://paobranco.github.io/news/lidta20tutorialecml/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/news/lidta20tutorialecml/</guid>
+      <description>&lt;p&gt;LIDTA 2020 is a half day tutorial to be held at ECML/PKDD’2020. This tutorial is about Learning with Imbalanced Domains and Rare Event Detection. It targets both newcomers on the subject but also researchers/professionals with previous experience.&lt;/p&gt;
+&lt;p&gt;Many real-world data-mining applications involve obtaining and evaluating predictive models using data sets with strongly imbalanced distributions of the target variable. Frequently, the least-common values of this target variable are associated with rare events that are highly relevant for end-users. Examples include many diverse domains, such as diagnosis of rare diseases, intrusion detection or popularity prediction in social media. Tackling the issues raised by imbalanced domains is crucial to both academia and industry.&lt;/p&gt;
+&lt;p&gt;This tutorial clearly describes the full pipeline for rare event detection. This includes i) the fundamentals and principles, ii) methods and evaluation, iii) rare events detection in classified data, iv) explanation, v) a case study on fraud detection in data streams and vi) open challenges.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New Assistant Professor Position</title>
