@@ -13,19 +13,6 @@
     </image>
     
     <item>
-      <title>Rare events detection: Methods and Evaluation</title>
-      <link>https://paobranco.github.io/talks/lidta20/</link>
-      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://paobranco.github.io/talks/lidta20/</guid>
-      <description>&lt;p&gt;&amp;ldquo;Rare events detection: Methods and Evaluation&amp;rdquo; September 2020
-LIDTA&amp;rsquo;2020: Tutorial on Learning with Imbalanced Domains and Rare Event Detection at ECML/PKDD 2020 
-&lt;a href=&#34;https://web.cs.dal.ca/~ltorgo/LIDTA/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Tutorial page: 
-&lt;a href=&#34;https://web.cs.dal.ca/~ltorgo/LIDTA/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIDTA&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>UBL R Package - Utility-Based Learning in R</title>
       <link>https://paobranco.github.io/ubl/ubl-description/</link>
       <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
@@ -123,6 +110,19 @@ Initially, the research community  addressed  these  tasks  through  the  develo
 &lt;p&gt;The second challenge is related with the lack of methods to address utility-based regression problems. When dealing with utility-based learning if the utility information is not incorporated into the learning procedure we are only able to obtain sub-optimal models.  To solve this problem we propose and evaluate new methods that allow to maximise the utility in regression.  We show that these methods are effective for different utility settings.&lt;/p&gt;
 &lt;p&gt;The third and final challenge is related with the particular sub-class of utility-based problems known as imbalanced domains.  This is also a problem insufficiently studied in the context of regression tasks.  We propose and evaluate several approaches to address this problem.&lt;/p&gt;
 &lt;p&gt;As a practical outcome of this work, we provide UBL, an R package for utility-based learning that integrates approaches for classification and regression tasks.  The UBL package includes the proposals presented in this thesis, as well as many other approaches developed for utility-based classification, providing to the research community a tool for testing and comparing different alternative methods of addressing utility-based predictive tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rare events detection: Methods and Evaluation</title>
+      <link>https://paobranco.github.io/talks/lidta20/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/talks/lidta20/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Rare events detection: Methods and Evaluation&amp;rdquo; September 2020
+LIDTA&amp;rsquo;2020: Tutorial on Learning with Imbalanced Domains and Rare Event Detection at ECML/PKDD 2020 
+&lt;a href=&#34;https://web.cs.dal.ca/~ltorgo/LIDTA/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Tutorial page: 
+&lt;a href=&#34;https://web.cs.dal.ca/~ltorgo/LIDTA/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LIDTA&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
