@@ -585,17 +585,57 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Utility-based learning problems are framed within predictive analytics tasks. In utility-based learning problems the end-user provides has non uniform preferences regarding the predictive performance of the models. This means that some errors may represent severe consequences while other errors may not be that important. Also the accurate predictions may have different benefits for the user.</p>
-<p>Utility-based learning problems are very frequent in real-world applications. We can find them in medical applications, ecological/meteorological forecasting or in a financial. More information regarding utility-based learning problems can be found here. Some solutions for this problem can be found here, here or here.</p>
-<p>The UBL package includes several approaches for dealing with problems with different costs/benefits across the target variable domain. This is a frequent issue in imbalanced domains, so in particular, the implemented approaches are also able to deal with this problem. A detailed explanation of the methods implemented in UBL package can be found here.</p>
-<p>Click here to see a presentation of UBL package!</p>
-<p>The package is available on GitHub and on 
+      <p><strong>UBL</strong> is an R package developed for <strong>Utility-based Learning</strong>.</p>
+<p>Utility-based learning problems are framed within predictive analytics tasks. In utility-based learning problems the end-user provides has non uniform preferences regarding the predictive performance of the models. This means that some errors may represent severe consequences while other errors may not be that important. Also the accurate predictions may have different benefits for the user.</p>
+<p>Utility-based learning problems are very frequent in real-world applications. We can find them in medical applications, ecological/meteorological forecasting or in a financial. More information regarding utility-based learning problems can be found 
+<a href="https://web.cs.dal.ca/~branco/PDFfiles/PhDPaulaBranco.pdf" target="_blank" rel="noopener">here</a>. Some solutions for this problem can be found 
+<a href="https://web.cs.dal.ca/~branco/PDFfiles/c6.pdf" target="_blank" rel="noopener">here</a>, 
+<a href="https://web.cs.dal.ca/~branco/PDFfiles/c7.pdf" target="_blank" rel="noopener">here</a> or 
+<a href="https://web.cs.dal.ca/~branco/PDFfiles/j14.pdf" target="_blank" rel="noopener">here</a>.</p>
+<p>The UBL package includes several approaches for dealing with problems with different costs/benefits across the target variable domain. This is a frequent issue in imbalanced domains, so in particular, the implemented approaches are also able to deal with this problem. A detailed explanation of the methods implemented in UBL package can be found 
+<a href="https://arxiv.org/pdf/1604.08079.pdf" target="_blank" rel="noopener">here</a>.</p>
+<p>Click 
+<a href="https://web.cs.dal.ca/~branco/PDFfiles/UBL_R_package_presentation_2018.pdf" target="_blank" rel="noopener">here</a> to see a presentation of UBL package!</p>
+<p>The package is available on 
+<a href="https://github.com/paobranco/UBL" target="_blank" rel="noopener">GitHub</a> and on 
 <a href="https://CRAN.R-project.org/package=UBL" target="_blank" rel="noopener">CRAN</a>.</p>
+<pre><code class="language-{r,">library(cranlogs)
+library(dplyr)
+library(tibble)
+
+initD &lt;- &quot;2016-04-20&quot;
+finalD &lt;- as.character(Sys.Date())
+pckgs &lt;- c(&quot;UBL&quot;)
+
+dt &lt;- as_tibble(cran_downloads(from=initD,to=finalD, packages = pckgs))
+
+# Total
+
+#filter(dt,package==&quot;UBL&quot;) %&gt;% summarize(tot=sum(count))
+</code></pre>
 <p>This is the first R package that integrates methods for dealing with both imbalanced classification and imbalanced regression problems. We also implemented more general methods for dealing with utility-based and cost-sensitive problems. These methods are also implemented for classification and regression tasks.</p>
-<p>So far, and taking into acount only the downloads made through CRAN, the UBL package has a total of 8566 downloads! The last month daily average of UBL downloads is of 18!</p>
+<p>So far, and taking into acount only the downloads made through CRAN, the UBL package has a total of <code>r filter(dt,package==&quot;UBL&quot;) %&gt;% summarize(tot=sum(count))</code> downloads! The last month daily average of UBL downloads is of <code>r filter(dt,package==&quot;UBL&quot;, date&gt;'2019-02-08') %&gt;% summarize(tot=mean(count)) %&gt;% round()</code>!</p>
 <p>Below you can observe the daily number of downloads of UBL since its initial release in April 26, 2016.</p>
+<pre><code class="language-{r">
+# Gráfico
+
+library(ggplot2)
+filter(dt,package==&quot;UBL&quot;,date&gt;&quot;2016-04-25&quot;) %&gt;%
+  ggplot(aes(x=date,y=count)) + geom_line(col='darkblue')
+</code></pre>
 <p>The following figure shows the cummulative number of downloads of UBL from CRAN since its initial release in April 26, 2016.</p>
-<p>The package has been improving, and a new release of UBL is being prepared! Download UBL and have fun!</p>
+<pre><code class="language-{r">
+library(ggplot2)
+
+new.dt &lt;- filter(dt,package==&quot;UBL&quot;,date&gt;&quot;2016-04-25&quot;) %&gt;%
+  mutate(cumsum_covered = cumsum(count))
+
+ggplot(new.dt, aes(x=date, y=cumsum_covered)) + geom_line(color=&quot;blue&quot;) +
+  ylab(&quot;Downloads' Cummulative Counts&quot;)
+
+</code></pre>
+<p>The package has been improving, and a new release of UBL is being prepared!
+<strong>Download UBL and have fun</strong>!</p>
 
     </div>
 
