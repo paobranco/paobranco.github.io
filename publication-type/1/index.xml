@@ -5,12 +5,20 @@
     <link>https://paobranco.github.io/publication-type/1/</link>
       <atom:link href="https://paobranco.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Wed, 15 Jun 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://paobranco.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Resampling strategies for imbalanced time series</title>
+      <link>https://paobranco.github.io/publication/c3/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/c3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Crime prediction using regression and resources optimization</title>
