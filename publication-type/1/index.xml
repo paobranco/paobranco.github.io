@@ -5,7 +5,7 @@
     <link>https://paobranco.github.io/publication-type/1/</link>
       <atom:link href="https://paobranco.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Crime prediction using regression and resources optimization</title>
+      <link>https://paobranco.github.io/publication/c2/</link>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/c2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SMOTE for Regression</title>
-      <link>https://paobranco.github.io/publication/example/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://paobranco.github.io/publication/example/</guid>
+      <link>https://paobranco.github.io/publication/c1/</link>
+      <pubDate>Sat, 15 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/c1/</guid>
       <description></description>
     </item>
     
