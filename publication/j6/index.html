@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Many real-world data-mining applications involve obtaining predictive models using datasets with stronglyimbalanced distributions of the target variable. Frequently, the least-common values of this target variableare associated with events that are highly relevant for end users (e.g., fraud detection, unusual returnson stock markets, anticipation of catastrophes, etc.). Moreover, the events may have different costs andbenefits, which, when associated with the rarity of some of them on the available training data, createsserious problems to predictive modeling techniques. This article presents a survey of existing techniques forhandling these important applications of predictive analytics. Although most of the existing work addressesclassification tasks (nominal target variables), we also describe methods designed to handle similar problemswithin regression tasks (numeric target variables). In this survey, we discuss the main challenges raisedby imbalanced domains, propose a definition of the problem, describe the main approaches to these tasks,propose a taxonomy of the methods, summarize the conclusions of existing comparative studies as well assome theoretical analyses of some methods, and refer to some related problems within predictive modeling.">
+  <meta name="description" content="Imbalanced domains are an important problem frequently arising in real world predictive analytics. A significant body of research has addressed imbalanced distributions in classification tasks, where the target variable is nominal. In the context of regression tasks, where the target variable is continuous, imbalanced distributions of the target variable also raise several challenges to learning algorithms. Imbalanced domains are characterized by: (1) a higher relevance being assigned to the performance on a subset of the target variable values; and (2) these most relevant values being underrepresented on the available data set. Recently, some proposals were made to address the problem of imbalanced distributions in regression. Still, this remains a scarcely explored issue with few existing solutions. This paper describes three new approaches for tackling the problem of imbalanced distributions in regression tasks. We propose the adaptation to regression tasks of random over-sampling and introduction of Gaussian Noise, and we present a new method called WEighted Relevance-based Combination Strategy (WERCS). An extensive set of experiments provides empirical evidence of the advantage of using the proposed strategies and, in particular, the WERCS  method. We analyze the impact of different data characteristics in the performance of the methods. A data repository with 15 imbalanced regression data sets is also provided to the research community.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://paobranco.github.io/publication/j2/">
+  <link rel="alternate" hreflang="en-us" href="https://paobranco.github.io/publication/j6/">
 
   
 
@@ -220,7 +220,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://paobranco.github.io/publication/j2/">
+  <link rel="canonical" href="https://paobranco.github.io/publication/j6/">
 
   
   
@@ -236,15 +236,15 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Paula Branco, Ph.D.">
-  <meta property="og:url" content="https://paobranco.github.io/publication/j2/">
-  <meta property="og:title" content="A survey of predictive modeling on imbalanced domains | Paula Branco, Ph.D.">
-  <meta property="og:description" content="Many real-world data-mining applications involve obtaining predictive models using datasets with stronglyimbalanced distributions of the target variable. Frequently, the least-common values of this target variableare associated with events that are highly relevant for end users (e.g., fraud detection, unusual returnson stock markets, anticipation of catastrophes, etc.). Moreover, the events may have different costs andbenefits, which, when associated with the rarity of some of them on the available training data, createsserious problems to predictive modeling techniques. This article presents a survey of existing techniques forhandling these important applications of predictive analytics. Although most of the existing work addressesclassification tasks (nominal target variables), we also describe methods designed to handle similar problemswithin regression tasks (numeric target variables). In this survey, we discuss the main challenges raisedby imbalanced domains, propose a definition of the problem, describe the main approaches to these tasks,propose a taxonomy of the methods, summarize the conclusions of existing comparative studies as well assome theoretical analyses of some methods, and refer to some related problems within predictive modeling."><meta property="og:image" content="https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://paobranco.github.io/publication/j6/">
+  <meta property="og:title" content="Pre-processing approaches for imbalanced distributions in regression | Paula Branco, Ph.D.">
+  <meta property="og:description" content="Imbalanced domains are an important problem frequently arising in real world predictive analytics. A significant body of research has addressed imbalanced distributions in classification tasks, where the target variable is nominal. In the context of regression tasks, where the target variable is continuous, imbalanced distributions of the target variable also raise several challenges to learning algorithms. Imbalanced domains are characterized by: (1) a higher relevance being assigned to the performance on a subset of the target variable values; and (2) these most relevant values being underrepresented on the available data set. Recently, some proposals were made to address the problem of imbalanced distributions in regression. Still, this remains a scarcely explored issue with few existing solutions. This paper describes three new approaches for tackling the problem of imbalanced distributions in regression tasks. We propose the adaptation to regression tasks of random over-sampling and introduction of Gaussian Noise, and we present a new method called WEighted Relevance-based Combination Strategy (WERCS). An extensive set of experiments provides empirical evidence of the advantage of using the proposed strategies and, in particular, the WERCS  method. We analyze the impact of different data characteristics in the performance of the methods. A data repository with 15 imbalanced regression data sets is also provided to the research community."><meta property="og:image" content="https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2016-08-01T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2019-05-29T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2016-08-01T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2019-05-29T00:00:00&#43;00:00">
   
 
   
@@ -266,12 +266,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://paobranco.github.io/publication/j2/"
+    "@id": "https://paobranco.github.io/publication/j6/"
   },
-  "headline": "A survey of predictive modeling on imbalanced domains",
+  "headline": "Pre-processing approaches for imbalanced distributions in regression",
   
-  "datePublished": "2016-08-01T00:00:00Z",
-  "dateModified": "2016-08-01T00:00:00Z",
+  "datePublished": "2019-05-29T00:00:00Z",
+  "dateModified": "2019-05-29T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -286,7 +286,7 @@
       "url": "https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Many real-world data-mining applications involve obtaining predictive models using datasets with stronglyimbalanced distributions of the target variable. Frequently, the least-common values of this target variableare associated with events that are highly relevant for end users (e.g., fraud detection, unusual returnson stock markets, anticipation of catastrophes, etc.). Moreover, the events may have different costs andbenefits, which, when associated with the rarity of some of them on the available training data, createsserious problems to predictive modeling techniques. This article presents a survey of existing techniques forhandling these important applications of predictive analytics. Although most of the existing work addressesclassification tasks (nominal target variables), we also describe methods designed to handle similar problemswithin regression tasks (numeric target variables). In this survey, we discuss the main challenges raisedby imbalanced domains, propose a definition of the problem, describe the main approaches to these tasks,propose a taxonomy of the methods, summarize the conclusions of existing comparative studies as well assome theoretical analyses of some methods, and refer to some related problems within predictive modeling."
+  "description": "Imbalanced domains are an important problem frequently arising in real world predictive analytics. A significant body of research has addressed imbalanced distributions in classification tasks, where the target variable is nominal. In the context of regression tasks, where the target variable is continuous, imbalanced distributions of the target variable also raise several challenges to learning algorithms. Imbalanced domains are characterized by: (1) a higher relevance being assigned to the performance on a subset of the target variable values; and (2) these most relevant values being underrepresented on the available data set. Recently, some proposals were made to address the problem of imbalanced distributions in regression. Still, this remains a scarcely explored issue with few existing solutions. This paper describes three new approaches for tackling the problem of imbalanced distributions in regression tasks. We propose the adaptation to regression tasks of random over-sampling and introduction of Gaussian Noise, and we present a new method called WEighted Relevance-based Combination Strategy (WERCS). An extensive set of experiments provides empirical evidence of the advantage of using the proposed strategies and, in particular, the WERCS  method. We analyze the impact of different data characteristics in the performance of the methods. A data repository with 15 imbalanced regression data sets is also provided to the research community."
 }
 </script>
 
@@ -304,7 +304,7 @@
 
 
 
-  <title>A survey of predictive modeling on imbalanced domains | Paula Branco, Ph.D.</title>
+  <title>Pre-processing approaches for imbalanced distributions in regression | Paula Branco, Ph.D.</title>
 
 </head>
 
@@ -654,10 +654,10 @@
   
   
 <div class="article-container pt-3">
-  <h1>A survey of predictive modeling on imbalanced domains</h1>
+  <h1>Pre-processing approaches for imbalanced distributions in regression</h1>
 
   
-  <p class="page-subtitle">Branco, Paula, Torgo, Luís, Ribeiro, Rita P</p>
+  <p class="page-subtitle">Branco, Paula, Torgo, Luis, Ribeiro, Rita P</p>
   
 
   
@@ -675,7 +675,7 @@
     
       
     
-    August 2016
+    May 2019
   </span>
   
 
@@ -723,7 +723,7 @@
 
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://dl.acm.org/doi/pdf/10.1145/2907070" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1" href="https://www.sciencedirect.com/science/article/pii/S0925231219301638?casa_token=NYCAPmYHLwAAAAAA:-UrCTkVCCA7esV3bDsLccM4luUuhVwhF6P3j5zSmOiAJ3dolMLJ5S4owpS5dgu7NEbl6Xvp842Yj" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -755,7 +755,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">Many real-world data-mining applications involve obtaining predictive models using datasets with stronglyimbalanced distributions of the target variable. Frequently, the least-common values of this target variableare associated with events that are highly relevant for end users (e.g., fraud detection, unusual returnson stock markets, anticipation of catastrophes, etc.). Moreover, the events may have different costs andbenefits, which, when associated with the rarity of some of them on the available training data, createsserious problems to predictive modeling techniques. This article presents a survey of existing techniques forhandling these important applications of predictive analytics. Although most of the existing work addressesclassification tasks (nominal target variables), we also describe methods designed to handle similar problemswithin regression tasks (numeric target variables). In this survey, we discuss the main challenges raisedby imbalanced domains, propose a definition of the problem, describe the main approaches to these tasks,propose a taxonomy of the methods, summarize the conclusions of existing comparative studies as well assome theoretical analyses of some methods, and refer to some related problems within predictive modeling.</p>
+    <p class="pub-abstract">Imbalanced domains are an important problem frequently arising in real world predictive analytics. A significant body of research has addressed imbalanced distributions in classification tasks, where the target variable is nominal. In the context of regression tasks, where the target variable is continuous, imbalanced distributions of the target variable also raise several challenges to learning algorithms. Imbalanced domains are characterized by: (1) a higher relevance being assigned to the performance on a subset of the target variable values; and (2) these most relevant values being underrepresented on the available data set. Recently, some proposals were made to address the problem of imbalanced distributions in regression. Still, this remains a scarcely explored issue with few existing solutions. This paper describes three new approaches for tackling the problem of imbalanced distributions in regression tasks. We propose the adaptation to regression tasks of random over-sampling and introduction of Gaussian Noise, and we present a new method called WEighted Relevance-based Combination Strategy (WERCS). An extensive set of experiments provides empirical evidence of the advantage of using the proposed strategies and, in particular, the WERCS  method. We analyze the impact of different data characteristics in the performance of the methods. A data repository with 15 imbalanced regression data sets is also provided to the research community.</p>
     
 
     
@@ -785,7 +785,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">ACM Computing Surveys (CSUR), Volume 49, Issue 2, 31 (ACM, 2016)</div>
+          <div class="col-12 col-md-9">Neurocomputing, Volume 343, 76-99 (Elsevier, 2019)</div>
         </div>
       </div>
       <div class="col-md-1"></div>
@@ -816,7 +816,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://paobranco.github.io/publication/j2/&amp;text=A%20survey%20of%20predictive%20modeling%20on%20imbalanced%20domains" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://paobranco.github.io/publication/j6/&amp;text=Pre-processing%20approaches%20for%20imbalanced%20distributions%20in%20regression" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -829,7 +829,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://paobranco.github.io/publication/j2/&amp;t=A%20survey%20of%20predictive%20modeling%20on%20imbalanced%20domains" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://paobranco.github.io/publication/j6/&amp;t=Pre-processing%20approaches%20for%20imbalanced%20distributions%20in%20regression" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -842,7 +842,7 @@
       
       
       <li>
-        <a href="mailto:?subject=A%20survey%20of%20predictive%20modeling%20on%20imbalanced%20domains&amp;body=https://paobranco.github.io/publication/j2/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Pre-processing%20approaches%20for%20imbalanced%20distributions%20in%20regression&amp;body=https://paobranco.github.io/publication/j6/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -855,7 +855,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://paobranco.github.io/publication/j2/&amp;title=A%20survey%20of%20predictive%20modeling%20on%20imbalanced%20domains" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://paobranco.github.io/publication/j6/&amp;title=Pre-processing%20approaches%20for%20imbalanced%20distributions%20in%20regression" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -868,7 +868,7 @@
       
       
       <li>
-        <a href="https://web.whatsapp.com/send?text=A%20survey%20of%20predictive%20modeling%20on%20imbalanced%20domains%20https://paobranco.github.io/publication/j2/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="https://web.whatsapp.com/send?text=Pre-processing%20approaches%20for%20imbalanced%20distributions%20in%20regression%20https://paobranco.github.io/publication/j6/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -881,7 +881,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://paobranco.github.io/publication/j2/&amp;title=A%20survey%20of%20predictive%20modeling%20on%20imbalanced%20domains" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://paobranco.github.io/publication/j6/&amp;title=Pre-processing%20approaches%20for%20imbalanced%20distributions%20in%20regression" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

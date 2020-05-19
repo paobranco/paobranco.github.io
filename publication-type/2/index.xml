@@ -5,12 +5,52 @@
     <link>https://paobranco.github.io/publication-type/2/</link>
       <atom:link href="https://paobranco.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Wed, 29 May 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
       <link>https://paobranco.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Pre-processing approaches for imbalanced distributions in regression</title>
+      <link>https://paobranco.github.io/publication/j6/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resampling with neighbourhood bias on imbalanced domains</title>
+      <link>https://paobranco.github.io/publication/j5/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resampling strategies for imbalanced time series forecasting</title>
+      <link>https://paobranco.github.io/publication/j4/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework for recommendation of highly popular news lacking social feedback</title>
+      <link>https://paobranco.github.io/publication/j3/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of predictive modeling on imbalanced domains</title>
+      <link>https://paobranco.github.io/publication/j2/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j2/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Resampling strategies for regression</title>

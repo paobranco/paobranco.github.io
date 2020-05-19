@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Pre-processing approaches for imbalanced distributions in regression</title>
+      <link>https://paobranco.github.io/publication/j6/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rebagg: Resampled bagging for imbalanced regression</title>
       <link>https://paobranco.github.io/publication/c12/</link>
       <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
@@ -41,6 +49,14 @@
       <link>https://paobranco.github.io/publication/c11/</link>
       <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://paobranco.github.io/publication/c11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resampling with neighbourhood bias on imbalanced domains</title>
+      <link>https://paobranco.github.io/publication/j5/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j5/</guid>
       <description></description>
     </item>
     
@@ -105,6 +121,30 @@
       <link>https://paobranco.github.io/publication/c6/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://paobranco.github.io/publication/c6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resampling strategies for imbalanced time series forecasting</title>
+      <link>https://paobranco.github.io/publication/j4/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework for recommendation of highly popular news lacking social feedback</title>
+      <link>https://paobranco.github.io/publication/j3/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of predictive modeling on imbalanced domains</title>
+      <link>https://paobranco.github.io/publication/j2/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j2/</guid>
       <description></description>
     </item>
     

@@ -118,6 +118,14 @@ LIDTA&amp;rsquo;2020: Tutorial on Learning with Imbalanced Domains and Rare Even
     </item>
     
     <item>
+      <title>Pre-processing approaches for imbalanced distributions in regression</title>
+      <link>https://paobranco.github.io/publication/j6/</link>
+      <pubDate>Wed, 29 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New Paper in Neurocomputing Journal</title>
       <link>https://paobranco.github.io/news/new-paper-neurocomputing/</link>
       <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
@@ -171,6 +179,14 @@ Initially, the research community  addressed  these  tasks  through  the  develo
 &lt;p&gt;The third and final challenge is related with the particular sub-class of utility-based problems known as imbalanced domains.  This is also a problem insufficiently studied in the context of regression tasks.  We propose and evaluate several approaches to address this problem.&lt;/p&gt;
 &lt;p&gt;As a practical outcome of this work, we provide UBL, an R package for utility-based learning that integrates approaches for classification and regression tasks.  The UBL package includes the proposals presented in this thesis, as well as many other approaches developed for utility-based classification, providing to the research community a tool for testing and comparing different alternative methods of addressing utility-based predictive tasks.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Resampling with neighbourhood bias on imbalanced domains</title>
+      <link>https://paobranco.github.io/publication/j5/</link>
+      <pubDate>Wed, 11 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j5/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -234,6 +250,30 @@ Initially, the research community  addressed  these  tasks  through  the  develo
       <link>https://paobranco.github.io/publication/c6/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://paobranco.github.io/publication/c6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resampling strategies for imbalanced time series forecasting</title>
+      <link>https://paobranco.github.io/publication/j4/</link>
+      <pubDate>Thu, 16 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A framework for recommendation of highly popular news lacking social feedback</title>
+      <link>https://paobranco.github.io/publication/j3/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A survey of predictive modeling on imbalanced domains</title>
+      <link>https://paobranco.github.io/publication/j2/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/j2/</guid>
       <description></description>
     </item>
     
