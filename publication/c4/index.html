@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="Assistant Professor">
+  <meta name="description" content="Accounting for misclassification costs is important in many practical applications of machine learning, and cost-sensitive techniques for classification have been studied extensively. Utility-based learning provides a generalization of purely cost-based approaches that considers both costs and benefits, enabling application to domains with complex cost-benefit settings. However, there is little work on utility- or cost-based learning for regression. In this paper, we formally define the problem of utility-based regression and propose a strategy for maximizing the utility of regression models. We verify our findings in a large set of experiments that show the advantage of our proposal in a diverse set of domains, learning algorithms and cost/benefit settings.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://paobranco.github.io/publication_types/">
+  <link rel="alternate" hreflang="en-us" href="https://paobranco.github.io/publication/c4/">
 
   
 
@@ -42,6 +42,9 @@
   
 
   
+  
+  
+  <script src="/js/mathjax-config.js"></script>
   
 
   
@@ -173,9 +176,9 @@
 
       
       
-        
-      
 
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js" integrity="" crossorigin="anonymous" async></script>
       
     
       
@@ -212,14 +215,12 @@
   
 
   
-  <link rel="alternate" href="/publication_types/index.xml" type="application/rss+xml" title="Paula Branco, Ph.D.">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://paobranco.github.io/publication_types/">
+  <link rel="canonical" href="https://paobranco.github.io/publication/c4/">
 
   
   
@@ -235,18 +236,61 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Paula Branco, Ph.D.">
-  <meta property="og:url" content="https://paobranco.github.io/publication_types/">
-  <meta property="og:title" content="Publication_types | Paula Branco, Ph.D.">
-  <meta property="og:description" content="Assistant Professor"><meta property="og:image" content="https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://paobranco.github.io/publication/c4/">
+  <meta property="og:title" content="Learning through utility optimization in regression tasks | Paula Branco, Ph.D.">
+  <meta property="og:description" content="Accounting for misclassification costs is important in many practical applications of machine learning, and cost-sensitive techniques for classification have been studied extensively. Utility-based learning provides a generalization of purely cost-based approaches that considers both costs and benefits, enabling application to domains with complex cost-benefit settings. However, there is little work on utility- or cost-based learning for regression. In this paper, we formally define the problem of utility-based regression and propose a strategy for maximizing the utility of regression models. We verify our findings in a large set of experiments that show the advantage of our proposal in a diverse set of domains, learning algorithms and cost/benefit settings."><meta property="og:image" content="https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2017-06-15T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2017-06-15T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2017-06-15T00:00:00&#43;00:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://paobranco.github.io/publication/c4/"
+  },
+  "headline": "Learning through utility optimization in regression tasks",
+  
+  "datePublished": "2017-06-15T00:00:00Z",
+  "dateModified": "2017-06-15T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Paula Branco"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Paula Branco, Ph.D.",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Accounting for misclassification costs is important in many practical applications of machine learning, and cost-sensitive techniques for classification have been studied extensively. Utility-based learning provides a generalization of purely cost-based approaches that considers both costs and benefits, enabling application to domains with complex cost-benefit settings. However, there is little work on utility- or cost-based learning for regression. In this paper, we formally define the problem of utility-based regression and propose a strategy for maximizing the utility of regression models. We verify our findings in a large set of experiments that show the advantage of our proposal in a diverse set of domains, learning algorithms and cost/benefit settings."
+}
+</script>
+
+  
 
   
 
@@ -254,10 +298,13 @@
   
 
 
+  
 
 
 
-  <title>Publication_types | Paula Branco, Ph.D.</title>
+
+
+  <title>Learning through utility optimization in regression tasks | Paula Branco, Ph.D.</title>
 
 </head>
 
@@ -586,54 +633,378 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <div class="pub">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
   
   
+  
+<div class="article-container pt-3">
+  <h1>Learning through utility optimization in regression tasks</h1>
+
+  
+  <p class="page-subtitle">Branco, Paula, Torgo, Luís, Ribeiro, Rita P, Frank, Eibe, Pfahringer, Bernhard, Rau, Markus Michael</p>
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1>Publication_types</h1>
+
+
+<div class="article-metadata">
 
   
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    June 2017
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Accounting for misclassification costs is important in many practical applications of machine learning, and cost-sensitive techniques for classification have been studied extensively. Utility-based learning provides a generalization of purely cost-based approaches that considers both costs and benefits, enabling application to domains with complex cost-benefit settings. However, there is little work on utility- or cost-based learning for regression. In this paper, we formally define the problem of utility-based regression and propose a strategy for maximizing the utility of regression models. We verify our findings in a large set of experiments that show the advantage of our proposal in a diverse set of domains, learning algorithms and cost/benefit settings.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">2017 IEEE International Conference on Data Science and Advanced Analytics (DSAA), Page Range: 30-39</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://paobranco.github.io/publication/c4/&amp;text=Learning%20through%20utility%20optimization%20in%20regression%20tasks" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://paobranco.github.io/publication/c4/&amp;t=Learning%20through%20utility%20optimization%20in%20regression%20tasks" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Learning%20through%20utility%20optimization%20in%20regression%20tasks&amp;body=https://paobranco.github.io/publication/c4/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://paobranco.github.io/publication/c4/&amp;title=Learning%20through%20utility%20optimization%20in%20regression%20tasks" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Learning%20through%20utility%20optimization%20in%20regression%20tasks%20https://paobranco.github.io/publication/c4/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://paobranco.github.io/publication/c4/&amp;title=Learning%20through%20utility%20optimization%20in%20regression%20tasks" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
   
   
+
+
+
+
+
+  
     
     
     
-    <div>
-      <h2><a href="/publication-type/1/" >1</a></h2>
-      <div class="article-style">
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
         
+        <img class="avatar mr-3 avatar-circle" src="/author/paula-branco/avatar_hu80fa8d9faac989327855b2f12a9d999d_25290_270x270_fill_q90_lanczos_center.jpg" alt="Paula Branco">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://paobranco.github.io/">Paula Branco</a></h5>
+        <h6 class="card-subtitle">Assistant Professor</h6>
+        <p class="card-text">I&rsquo;m an Assistant Professor at EECS, University of Ottawa. My research interests include Artificial Intelligence, Machine Learning, Imbalanced Domains, Outlier Detection, Anomaly Detection, Fraud Detection and Cybersecurity.</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.ca/citations?user=lLgQE20AAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/paobranco" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://arxiv.org/a/branco_p_1.html" target="_blank" rel="noopener">
+        <i class="ai ai-arxiv"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0002-9917-3694" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/profile/Paula_Branco4" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+</ul>
+
       </div>
     </div>
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
   
 
+
+
+  </div>
 </div>
 
       

@@ -5,12 +5,36 @@
     <link>https://paobranco.github.io/publication-type/1/</link>
       <atom:link href="https://paobranco.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Wed, 15 Jun 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Thu, 15 Jun 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://paobranco.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Learning through utility optimization in regression tasks</title>
+      <link>https://paobranco.github.io/publication/c4/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/c4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning with Imbalanced Domains: Preface</title>
+      <link>https://paobranco.github.io/publication/c5/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/c5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMOGN: a pre-processing approach for imbalanced regression</title>
+      <link>https://paobranco.github.io/publication/c6/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/c6/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Resampling strategies for imbalanced time series</title>
