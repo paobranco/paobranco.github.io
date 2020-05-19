@@ -5,12 +5,52 @@
     <link>https://paobranco.github.io/publication-type/1/</link>
       <atom:link href="https://paobranco.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Thu, 15 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Mon, 05 Nov 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
       <link>https://paobranco.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Rebagg: Resampled bagging for imbalanced regression</title>
+      <link>https://paobranco.github.io/publication/c12/</link>
+      <pubDate>Mon, 05 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/c12/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MetaUtil: Meta learning for utility maximization in regression</title>
+      <link>https://paobranco.github.io/publication/c11/</link>
+      <pubDate>Mon, 29 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/c11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2nd Workshop on Learning with Imbalanced Domains: Preface</title>
+      <link>https://paobranco.github.io/publication/c10/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/c10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cost-Sensitive Learning: Preface</title>
+      <link>https://paobranco.github.io/publication/c13/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/c13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study on the Impact of Data Characteristics in Imbalanced Regression Tasks</title>
+      <link>https://paobranco.github.io/publication/c14/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/c14/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Evaluation of ensemble methods in imbalanced regression tasks</title>
@@ -54,57 +94,17 @@
     
     <item>
       <title>SMOGN: a pre-processing approach for imbalanced regression</title>
-      <link>https://paobranco.github.io/publication/c10/</link>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://paobranco.github.io/publication/c10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SMOGN: a pre-processing approach for imbalanced regression</title>
-      <link>https://paobranco.github.io/publication/c11/</link>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://paobranco.github.io/publication/c11/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SMOGN: a pre-processing approach for imbalanced regression</title>
-      <link>https://paobranco.github.io/publication/c12/</link>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://paobranco.github.io/publication/c12/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SMOGN: a pre-processing approach for imbalanced regression</title>
-      <link>https://paobranco.github.io/publication/c13/</link>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://paobranco.github.io/publication/c13/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SMOGN: a pre-processing approach for imbalanced regression</title>
-      <link>https://paobranco.github.io/publication/c14/</link>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://paobranco.github.io/publication/c14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SMOGN: a pre-processing approach for imbalanced regression</title>
-      <link>https://paobranco.github.io/publication/c15/</link>
-      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>https://paobranco.github.io/publication/c15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SMOGN: a pre-processing approach for imbalanced regression</title>
       <link>https://paobranco.github.io/publication/c6/</link>
       <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
       <guid>https://paobranco.github.io/publication/c6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CURE for Class Imbalance</title>
+      <link>https://paobranco.github.io/publication/c15/</link>
+      <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/publication/c15/</guid>
       <description></description>
     </item>
     
