@@ -5,12 +5,28 @@
     <link>https://paobranco.github.io/news/</link>
       <atom:link href="https://paobranco.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2020.</copyright><lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://paobranco.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>New paper accepted @ BIBM 2020</title>
+      <link>https://paobranco.github.io/news/newbibmpaper/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/news/newbibmpaper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New paper accepted PSBD @ IEEE BigData 2020</title>
+      <link>https://paobranco.github.io/news/newbigdatapaper/</link>
+      <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/news/newbigdatapaper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LIDTA&#39;20 - Tutorial accepted @ ECML/PKDD 2020</title>
