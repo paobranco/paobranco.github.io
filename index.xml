@@ -17,10 +17,11 @@
       <link>https://paobranco.github.io/openprojects/projects/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://paobranco.github.io/openprojects/projects/</guid>
-      <description>&lt;ul&gt;
+      <description>&lt;p&gt;Here you can see the undergarduate projects available for Winter 2022.&lt;/p&gt;
+&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Using Machine Leanring for Rare Disease Detection
-co-supervised with Matthew Henderson from Newborn Screening Institute&lt;/p&gt;
+&lt;p&gt;Using Machine Learning for Rare Disease Detection
+co-supervised with Matthew Henderson from Newborn Screening Ontario (NSO)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Building and improving a webapp for an health application.
