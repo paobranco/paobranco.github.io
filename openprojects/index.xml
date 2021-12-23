@@ -5,7 +5,7 @@
     <link>https://paobranco.github.io/openprojects/</link>
       <atom:link href="https://paobranco.github.io/openprojects/index.xml" rel="self" type="application/rss+xml" />
     <description>Openprojects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2021.</copyright><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2021.</copyright><lastBuildDate>Thu, 23 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>Openprojects</title>
@@ -15,10 +15,9 @@
     <item>
       <title>Undergraduate Projects</title>
       <link>https://paobranco.github.io/openprojects/projects/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://paobranco.github.io/openprojects/projects/</guid>
-      <description>&lt;p&gt;Here you can see the undergarduate projects available for Winter 2022.&lt;/p&gt;
-&lt;ul&gt;
+      <description>&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Using Machine Learning for Rare Disease Detection
 co-supervised with Matthew Henderson from Newborn Screening Ontario (NSO)&lt;/p&gt;
@@ -32,6 +31,14 @@ Co-supervised with Karine April-Touppin from the &amp;hellip;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://paobranco.github.io/openprojects/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/openprojects/projects/</guid>
+      <description></description>
     </item>
     
   </channel>
