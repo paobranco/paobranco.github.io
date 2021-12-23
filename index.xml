@@ -5,33 +5,12 @@
     <link>https://paobranco.github.io/</link>
       <atom:link href="https://paobranco.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Paula Branco, Ph.D.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2021.</copyright><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2021.</copyright><lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>Paula Branco, Ph.D.</title>
       <link>https://paobranco.github.io/</link>
     </image>
-    
-    <item>
-      <title>Undergraduate Projects</title>
-      <link>https://paobranco.github.io/openprojects/projects/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://paobranco.github.io/openprojects/projects/</guid>
-      <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Using Machine Learning for Rare Disease Detection.
-This project will be co-supervised by Dr. Matthew Henderson (Laboratory Head of Biochemistry and Point of Care Screening) from Newborn Screening Ontario (NSO).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Building and improving a webapp for an health application (adding new and improving existing features, adding new security measures).
-This project will be co-supervised by Prof. Karine Toupin-April (Adjunct Professor with the School of Rehabilitation Sciences in the University of Ottawa’s Faculty of Health Sciences).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Create this and that&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
     
     <item>
       <title>New paper accepted @ BIBM 2020</title>
@@ -114,6 +93,21 @@ LIDTA&amp;rsquo;2020: Tutorial on Learning with Imbalanced Domains and Rare Even
 &lt;p&gt;&lt;img src=&#34;https://paobranco.github.io/img/plot2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The package has been improving, and a new release of UBL is being prepared!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Download UBL and have fun&lt;/strong&gt;!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Undergard proj</title>
+      <link>https://paobranco.github.io/openprojects/projects/</link>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/openprojects/projects/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Using Machine Learning for Rare Disease Detection.
+This project will be co-supervised by Dr. Matthew Henderson (Laboratory Head of Biochemistry and Point of Care Screening) from Newborn Screening Ontario (NSO).&lt;/li&gt;
+&lt;li&gt;Building and improving a webapp for an health application (adding new and improving existing features, adding new security measures).
+This project will be co-supervised by Prof. Karine Toupin-April (Adjunct Professor with the School of Rehabilitation Sciences in the University of Ottawa’s Faculty of Health Sciences).&lt;/li&gt;
+&lt;li&gt;Create this and that&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

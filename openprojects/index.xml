@@ -5,7 +5,7 @@
     <link>https://paobranco.github.io/openprojects/</link>
       <atom:link href="https://paobranco.github.io/openprojects/index.xml" rel="self" type="application/rss+xml" />
     <description>Openprojects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2021.</copyright><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2021.</copyright><lastBuildDate>Sun, 17 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>Openprojects</title>
@@ -13,22 +13,16 @@
     </image>
     
     <item>
-      <title>Undergraduate Projects</title>
+      <title>Undergard proj</title>
       <link>https://paobranco.github.io/openprojects/projects/</link>
-      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 17 May 2020 00:00:00 +0000</pubDate>
       <guid>https://paobranco.github.io/openprojects/projects/</guid>
       <description>&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Using Machine Learning for Rare Disease Detection.
-This project will be co-supervised by Dr. Matthew Henderson (Laboratory Head of Biochemistry and Point of Care Screening) from Newborn Screening Ontario (NSO).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Building and improving a webapp for an health application (adding new and improving existing features, adding new security measures).
-This project will be co-supervised by Prof. Karine Toupin-April (Adjunct Professor with the School of Rehabilitation Sciences in the University of Ottawa’s Faculty of Health Sciences).&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Create this and that&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Using Machine Learning for Rare Disease Detection.
+This project will be co-supervised by Dr. Matthew Henderson (Laboratory Head of Biochemistry and Point of Care Screening) from Newborn Screening Ontario (NSO).&lt;/li&gt;
+&lt;li&gt;Building and improving a webapp for an health application (adding new and improving existing features, adding new security measures).
+This project will be co-supervised by Prof. Karine Toupin-April (Adjunct Professor with the School of Rehabilitation Sciences in the University of Ottawa’s Faculty of Health Sciences).&lt;/li&gt;
+&lt;li&gt;Create this and that&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

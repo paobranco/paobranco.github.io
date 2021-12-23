@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://paobranco.github.io/openprojects/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paobranco.github.io/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://paobranco.github.io/openprojects/projects/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://paobranco.github.io/news/newbibmpaper/</loc>
     <lastmod>2020-10-30T00:00:00+00:00</lastmod>
   </url>
@@ -28,12 +13,22 @@
   </url>
   
   <url>
+    <loc>https://paobranco.github.io/</loc>
+    <lastmod>2020-10-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://paobranco.github.io/news/newbigdatapaper/</loc>
     <lastmod>2020-10-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://paobranco.github.io/news/lidta20tutorialecml/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paobranco.github.io/openprojects/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -54,6 +49,11 @@
   
   <url>
     <loc>https://paobranco.github.io/ubl/ubl-description/</loc>
+    <lastmod>2020-05-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://paobranco.github.io/openprojects/projects/</loc>
     <lastmod>2020-05-17T00:00:00+00:00</lastmod>
   </url>
   
