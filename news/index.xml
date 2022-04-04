@@ -5,12 +5,24 @@
     <link>https://paobranco.github.io/news/</link>
       <atom:link href="https://paobranco.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2022.</copyright><lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2022.</copyright><lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://paobranco.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>New paper accepted  @ Canadian conference on AI 2022</title>
+      <link>https://paobranco.github.io/news/newcanadianaipaper2022/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/news/newcanadianaipaper2022/</guid>
+      <description>&lt;p&gt;New paper published on Canadian Conference on AI: &amp;ldquo;DTEXNet: Artificial Intelligence-Based Combination Scheme for DDoS Attacks Detection&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Paula Branco&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TBD&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New paper accepted @ BIBM 2020</title>
