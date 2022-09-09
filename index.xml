@@ -65,18 +65,19 @@
 &lt;li&gt;&lt;em&gt;Feature selection techniques&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Multi-label Imbalance Learning&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;{% comment %}&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Using Machine Learning for Rare Disease Detection.&lt;/em&gt; This project will be co-supervised by Dr. Matthew Henderson (Laboratory Head of Biochemistry and Point of Care Screening) from Newborn Screening Ontario (NSO).&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Federated learning&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Multi-Task Active Learning&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Artificial Immune Systems&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Build a Python package for a specific problem&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Time evolving malware attacks&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Feature selection techniques&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Multi-label Imbalance Learning&lt;/em&gt;
-{% endcomment %}&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- this is a comment
+Projects W2022
+
+ - *Using Machine Learning for Rare Disease Detection.* This project will be co-supervised by Dr. Matthew Henderson (Laboratory Head of Biochemistry and Point of Care Screening) from Newborn Screening Ontario (NSO).
+ - *Federated learning*
+ - *Multi-Task Active Learning*
+ - *Artificial Immune Systems*
+ - *Build a Python package for a specific problem*
+ - *Time evolving malware attacks*
+ - *Feature selection techniques*
+ - *Multi-label Imbalance Learning*
+
+--&gt;
 &lt;p&gt;Notes:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Several of above projects may have different applications and some may be evaluated in a cybersecurity context if you are interested.&lt;/li&gt;
