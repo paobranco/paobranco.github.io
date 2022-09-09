@@ -29,23 +29,36 @@
       <link>https://paobranco.github.io/openprojects/gradprojects/</link>
       <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://paobranco.github.io/openprojects/gradprojects/</guid>
-      <description>&lt;p&gt;Graduate Projects Available for Winter 2022:&lt;/p&gt;
+      <description>&lt;p&gt;Graduate Projects Available for Fall 2022:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;Using Machine Learning for Rare Disease Detection.&lt;/em&gt; This project will be co-supervised by Dr. Matthew Henderson (Laboratory Head of Biochemistry and Point of Care Screening) from Newborn Screening Ontario (NSO).&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Predicting 30-day mortality using patients data.&lt;/em&gt; This project requires mandatory training for accessing the data.&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Federated learning&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Multi-Task Active Learning&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Artificial Immune Systems&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Build a Python package for a specific problem&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Build a Python package for a specific problem&lt;/em&gt; (many options available)&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Time evolving malware attacks&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;Feature selection techniques&lt;/em&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;Multi-label Imbalance Learning&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;New clustering ensemble for Log files&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Graph-Neural Networks for intrusion detection&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Multi-modal vulnerability detection&lt;/em&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Notes:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Several of above projects may have different applications and some may be evaluated in a cybersecurity context if you are interested;&lt;/li&gt;
-&lt;li&gt;for more details, please send me an email.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- this is a comment
+Projects W2022
+- *Using Machine Learning for Rare Disease Detection.* This project will be co-supervised by Dr. Matthew Henderson (Laboratory Head of Biochemistry and Point of Care Screening) from Newborn Screening Ontario (NSO).
+- *Predicting 30-day mortality using patients data.* This project requires mandatory training for accessing the data.
+- *Federated learning*
+- *Multi-Task Active Learning*
+- *Artificial Immune Systems*
+- *Build a Python package for a specific problem*
+- *Time evolving malware attacks*
+- *Feature selection techniques*
+- *Multi-label Imbalance Learning*
+..&gt;
+
+Notes:
+
+- Several of above projects may have different applications and some may be evaluated in a cybersecurity context if you are interested;
+- for more details, please send me an email.
 </description>
     </item>
     
