@@ -5,7 +5,7 @@
     <link>https://paobranco.github.io/</link>
       <atom:link href="https://paobranco.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Paula Branco, Ph.D.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2022.</copyright><lastBuildDate>Sun, 03 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Paula Branco 2022.</copyright><lastBuildDate>Thu, 08 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://paobranco.github.io/images/icon_hu37c490c4007590337d0f2ab55cec93b1_41382_512x512_fill_lanczos_center_2.png</url>
       <title>Paula Branco, Ph.D.</title>
@@ -13,21 +13,9 @@
     </image>
     
     <item>
-      <title>New paper accepted  @ Canadian conference on AI 2022</title>
-      <link>https://paobranco.github.io/news/newcanadianaipaper2022/</link>
-      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
-      <guid>https://paobranco.github.io/news/newcanadianaipaper2022/</guid>
-      <description>&lt;p&gt;New paper published on Canadian Conference on AI: &amp;ldquo;DTEXNet: Artificial Intelligence-Based Combination Scheme for DDoS Attacks Detection&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Salma Elgendy, Mayar Attawiya, Omar Haridy, Ahmed Farag and Paula Branco&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TBD&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Graduate Projects</title>
       <link>https://paobranco.github.io/openprojects/gradprojects/</link>
-      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://paobranco.github.io/openprojects/gradprojects/</guid>
       <description>&lt;p&gt;Graduate Projects Available for Fall 2022:&lt;/p&gt;
 &lt;ul&gt;
@@ -65,7 +53,7 @@ Notes:
     <item>
       <title>Undergraduate Projects</title>
       <link>https://paobranco.github.io/openprojects/undergradprojects/</link>
-      <pubDate>Thu, 23 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Sep 2022 00:00:00 +0000</pubDate>
       <guid>https://paobranco.github.io/openprojects/undergradprojects/</guid>
       <description>&lt;p&gt;Undergraduate Projects Available for Fall 2022:&lt;/p&gt;
 &lt;ul&gt;
@@ -96,6 +84,18 @@ Projects W2022
 &lt;li&gt;Several of above projects may have different applications and some may be evaluated in a cybersecurity context if you are interested.&lt;/li&gt;
 &lt;li&gt;For more details, please send me an email.&lt;/li&gt;
 &lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper accepted  @ Canadian conference on AI 2022</title>
+      <link>https://paobranco.github.io/news/newcanadianaipaper2022/</link>
+      <pubDate>Sun, 03 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://paobranco.github.io/news/newcanadianaipaper2022/</guid>
+      <description>&lt;p&gt;New paper published on Canadian Conference on AI: &amp;ldquo;DTEXNet: Artificial Intelligence-Based Combination Scheme for DDoS Attacks Detection&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Salma Elgendy, Mayar Attawiya, Omar Haridy, Ahmed Farag and Paula Branco&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;TBD&lt;/p&gt;
 </description>
     </item>
     
